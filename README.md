@@ -1,0 +1,2 @@
+# Bike classifier
+A simple implementation of a classifier for the [fast.ai](https://www.fast.ai/) course: classify bicycles in traditional (i.e. muscolar) and electric and deploy it as a web application.
